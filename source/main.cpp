@@ -7,11 +7,10 @@
 
 int main()
 {
-	exo2();
+	exo3();
 	
 	
     return 0;
 	
 
 }
-
